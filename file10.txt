@@ -1,2 +1,6 @@
 sample file
+
 file edited locally
+
+file edited on github
+
